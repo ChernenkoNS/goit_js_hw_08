@@ -43,3 +43,4 @@ function onFormSubmit(event) {
   localStorage.clear(inputKey);
   event.currentTarget.reset();
 }
+
